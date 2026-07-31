@@ -1,4 +1,3 @@
-````markdown
 # 🛍️ FakeStore
 
 A mobile application built with **React Native CLI** that integrates with the **FakeStore API** to display products, view product details, and manage a shopping cart.
